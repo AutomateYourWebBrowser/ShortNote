@@ -1,3 +1,7 @@
+
+
+
+
 Open a new editor like vim, nano the command is editor name then file name
 vim linux_Command . here vim is an editor and linux_command is a file Or folder
 
@@ -9,4 +13,18 @@ vim linux_Command . here vim is an editor and linux_command is a file Or folder
 
 #to see the content in a file/folder
 > ls folder name = ls Desktop 
-:
+
+
+
+
+
+Host mdmolla64
+HostName github.com
+User git
+IdentityFile ~/.ssh/id_rsa_github
+
+Host AutomateYourWebBrowser
+
+HostName github.com
+User git 
+IdentityFile ~/.ssh/id_rsa_automatebrowser:
