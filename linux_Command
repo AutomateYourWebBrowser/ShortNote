@@ -1,0 +1,12 @@
+Open a new editor like vim, nano the command is editor name then file name
+vim linux_Command . here vim is an editor and linux_command is a file Or folder
+
+# to makea  directory 
+> mkdir file/folder  name  = mkdir linux_Command
+
+# to change directory 
+>cd directory name = cd linux_command
+
+#to see the content in a file/folder
+> ls folder name = ls Desktop 
+:
